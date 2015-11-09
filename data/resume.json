@@ -12,33 +12,6 @@
         "phone": "15088132354",
         "email": "tonjayin@gmail.com"
     },
-    "social":[
-        {
-            "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com/tjy273942569",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com/pub/jayin-ton/100/85a/161",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com/Jayin_Ton",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "http://jayinton.com",
-            "icon": ""
-        }
-    ],
     "Awards": [
         {
             "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
